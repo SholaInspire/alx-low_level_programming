@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+/* more headers goes there */
 #include <stdio.h>
 
 /* Main - variables for c. Return: Always 0 (success) */
