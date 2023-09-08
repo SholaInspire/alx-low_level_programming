@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 /* Main - variables for c. Return: Always 0 (success) */
-int main(void);
+int main(void)
 {
 	int n;
 
